@@ -2,6 +2,7 @@
 #projectTitle
 
 
+
 Project Title
 
 # Read Me Generator
@@ -9,12 +10,20 @@ Project Title
 Describtion of the project
 
 # This Project is going to be used to create a professional read me page 
-License, Usages, installation, test
+
+License
 
 ####  MIT License  
+
+Usages
 #### This project is going to used to make a professional read me page from scratch 
+
+installation
 #### nmp inquirer 
+
+ test
 #### No
+
 Question, Github username, email
 
 ## Free feel to contact me  
