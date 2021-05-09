@@ -24,8 +24,12 @@ installation
  test
 #### No
 
-Question, Github username, email
+If you have any Questions
 
 ## Free feel to contact me  
-## Abdikadirdahir 
+
+Github username
+## Abdikadirdahir
+
+email
 ## Abdikadirdahir123@gmail.com 
